@@ -1,6 +1,6 @@
 # testGMG
 
-#### GLENN LISTY LIST:
+#### Stuff for SC2 Game (Glenn)
 - instaniable bullet stream that takes in a target transform
  [DAVID WORKING ON THIS]
 - animations for this model walking running ect.
