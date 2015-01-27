@@ -1,6 +1,6 @@
 # testGMG
 
-## GLENN LISTY LIST:
+#### GLENN LISTY LIST:
 -instaniable bullet stream that takes in a target transform
 
  [DAVID WORKING ON THIS]
